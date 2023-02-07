@@ -1,0 +1,42 @@
+
+  
+  .quiz-header {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 30px;
+    color: aqua;
+  }
+  
+  .quiz-restart {
+    margin-top: 30px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+.quiz-app {
+  background-color:  green;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.quiz-app__title {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: brown;
+}
+
+.quiz-app__question-container {
+  background-color: lightseagreen;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0px 0px 10px #BBBBBB;
+}
+
+.quiz-app__question-number {
+  font-size: 18px;
+  margin-bottom: 20px;
+
+}
